@@ -1,0 +1,28 @@
+.team-details .main-bg {
+    background: white;
+  }
+  .team-details .main-bg .text-wrapper .name {
+    font-family: 'gorditamedium';
+    font-size: 33px;
+    color:  #00284e;
+  }
+  body {
+    font-family: 'gorditaregular';
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 2em;
+    color: #00284e;
+  }
+  .team-details .main-bg .text-wrapper .social-icon a {
+    width: 42px;
+    height: 42px;
+    line-height: 42px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 18px;
+    color:  #00284e;
+    position: relative;
+    z-index: 1;
+    margin-right: 10px;
+    transition: all 0.3s ease-in-out;
+  }

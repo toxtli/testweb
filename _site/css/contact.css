@@ -1,0 +1,183 @@
+/* contact us page */
+.theme-inner-banner {
+    background: #f6fcff;
+    position: relative;
+    z-index: 1;
+    padding: 205px 0 115px;
+    overflow: hidden;
+  }
+  .navbar .navbar-nav .nav-link {
+    font-family: 'gorditamedium';
+    font-size: 18px;
+    letter-spacing: -0.2px;
+    line-height: initial;
+    color: black;
+    padding: 15px 0;
+    margin: 0 26px;
+    position: relative;
+  }
+  .theme-main-menu.sticky-menu.fixed {
+    position: fixed;
+    z-index: 990;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: white;
+    box-shadow: 0 13px 35px -12px rgb(149 149 149 / 5%);
+  }
+  /* .theme-main-menu .send-msg-btn {
+  
+    visibility: hidden;
+  }
+  .right-widget{
+    visibility: hidden;
+  } */
+  .theme-main-menu.theme-menu-four .menu-search-btn{
+
+    background-color: blueviolet;
+  }
+  .theme-inner-banner .page-breadcrumb li::after {
+    content: "\f285";
+    font-family: bootstrap-icons;
+    display: inline-block;
+    font-size: 11px;
+    padding-left: 6px;
+    color: black;
+  }
+  .intro-title.text-center{
+
+    color: black;
+  }
+  .theme-inner-banner .page-breadcrumb li a {
+    color:black;
+  }
+  .contact-section-one .address-block-two {
+    background: white;
+    box-shadow: 0px 25px 60px rgba(0, 65, 113, 0.05);
+    border-radius: 20px;
+    padding: 30px 20px 40px;
+  }
+  .contact-section-one {
+    position: relative;
+    z-index: 2;
+    background: #f6fcff;
+  }
+  .main-page-wrapper{
+
+    background: #f6fcff;
+  }
+  .contact-section-one::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 120px;
+    z-index: -1;
+    background:  #f6fcff;
+  }
+  .contact-section-one .address-block-two .title {
+    font-size: 20px;
+    padding: 15px 0 10px;
+    color: black;
+  }
+  .contact-section-one .address-block-two p {
+    font-size: 17px;
+    color: #00284e;
+  }
+  .contact-section-one .address-block-two p .call {
+    font-size: 22px;
+    color: purple;
+  }
+  .contact-section-one .address-block-two p .webaddress {
+    color: black;
+    text-decoration: underline;
+  }
+  .form-style-one .form-title {
+    font-size: 35px;
+    color:#00284e;
+  }
+  .form-style-one form label {
+    display: block;
+    line-height: initial;
+    color: #00284e;
+    font-size: 16px;
+    margin-bottom: 7px;
+  }
+  .form-style-one form input {
+    font-size: 18px;
+    width: 100%;
+    height: 60px;
+    border: 1px solid rgba(0,40,78,.15);
+    border-radius: 8px;
+    padding: 0 20px;
+    color: #00284e;
+    background: transparent;
+  }
+  .form-style-one form textarea {
+    font-size: 18px;
+    width: 100%;
+    max-width: 100%;
+    height: 190px;
+    max-height: 190px;
+    border: 1px solid rgba(0,40,78,.15);
+    border-radius: 8px;
+    padding: 10px 20px;
+    color:  #00284e;
+    background: transparent;
+  }
+  
+  /* .theme-menu-four .navbar {
+    margin-left: 25%!important;
+  } */
+  @media (min-width: 992px) and (max-width: 1800px){
+  .theme-menu-four .navbar {
+   margin: auto !important;
+  }
+}
+.navbar .dropdown-menu {
+  z-index: 5;
+  background-color: white;
+  border-radius: 10px;
+  display: block;
+  right: 0;
+  left: 0;
+  padding: 10px;
+  border: none;
+  top: 100%;
+  visibility: hidden;
+  transform: scale(1 , 0);
+  opacity: 0;
+  min-width: 250px;
+  box-shadow: 0px 50px 100px rgba(0, 0, 0, 0.12);
+  margin: 0;
+  transform-origin: 0 0;
+  transition: all 0.3s ease-in-out;
+}
+.navbar .dropdown-menu .dropdown-item {
+  font-size: 17px;
+  padding: 0 15px;
+  border-radius: 5px;
+  letter-spacing: 0px;
+  text-transform: capitalize;
+  line-height: 40px;
+  margin-bottom: 5px;
+  color:#00284e;
+  background: transparent;
+  display: inline-block;
+  position: relative;
+  transition: all 0.3s ease-in-out;
+  white-space: inherit;
+}
+.theme-menu-four .navbar {
+  margin: auto;
+}
+.theme-basic-footer .bottom-footer .footer-nav a {
+  font-size: 16px;
+  color: var(--text-color);
+  margin-left: 15px;
+  transition: all 0.3s ease-in-out;
+  color:#00284e;
+}
+.theme-basic-footer .footer-nav-link a:hover {
+  color: #913BFF;
+}

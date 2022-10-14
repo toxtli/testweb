@@ -1,0 +1,105 @@
+.mb-160 {
+    margin-bottom: 0px !important;
+  }
+  .mt-50 {
+    margin-top: 0px !important;
+  }
+  
+  .team-block-one {
+    background: white;
+    box-shadow: 0px 35px 70px rgba(0, 21, 133, 0.04);
+    border-radius: 10px;
+   
+  }
+  .team-block-one .team-info .designation-text {
+    font-size: 16px;
+    display: block;
+    color: #00284e;
+    line-height: initial;
+  }
+  .team-block-one .team-info .name {
+    font-family: 'gorditamedium';
+    display: block;
+    font-size: 21px;
+    color: #00284e;
+  }
+  .footer-style-four {
+    padding: 85px 0 0;
+      padding-top: 85px;
+    background:white
+  }
+  h1, h1, .h2, h2, .h3, h3, .h4, h4, .h5, h5, .h6, h6 {
+    color: #00284e;
+    font-weight: normal;
+  }
+  .theme-basic-footer .footer-intro p {
+    font-size: 17px;
+    line-height: 30px;
+    margin: 15px 0 35px;
+    color:  #00284e;
+  }
+  .theme-basic-footer .footer-nav-link a {
+    font-size: 17px;
+    line-height: 44px;
+    color: #00284e;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .theme-basic-footer .subscribe-form form input {
+    width: 100%;
+    height: 100%;
+    background: white;
+    border: #00284e;
+    color: #00284e;
+    border-radius: 8px;
+    padding: 0 155px 0 25px;
+    font-size: 17px;
+    box-shadow: 0px 10px 20px rgba(0, 33, 63, 0.03);
+  }
+  .footer-style-four {
+    padding: 85px 0 0;
+      padding-top: 85px;
+    background: linear-gradient(0deg,rgba(248,253,255,0) 0,rgba(241,252,255,.51782) 48.22%,#f6fdff 100%);
+  }
+  .theme-basic-footer .subscribe-form p {
+    font-size: 15px;
+    color: #a6b0bb;
+    line-height: initial;
+    margin: 5px 0 0;
+  }
+  ::placeholder { 
+    color:#a6b0bb;
+  }
+  .fancy-short-banner-five {
+    position: relative;
+    z-index: 2;
+    margin-bottom: -100px;
+    margin-top: 40px;
+  }
+
+  .fancy-short-banner-four {
+    position: relative;
+    z-index: 2;
+    margin-top: 0px;
+  }
+  .block-style-fourteen h5::before {
+    content: '';
+    position: absolute;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--prime-four);
+    left: 0;
+    top: -28px;
+  }
+  .fancy-short-banner-four .bg-wrapper {
+    height: 660px;
+    border-radius: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .w-100 {
+    width: 100% !important;
+    height: 400px !important;
+  }
