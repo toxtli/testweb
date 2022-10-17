@@ -1,6 +1,9 @@
 ---
 title: Homepage
 humanai: TEST1
+aihuman:  |
+  This is a multi-line string.
+  appear here. The extent of this string
 layout: default
 ---
 
