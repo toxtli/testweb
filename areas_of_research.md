@@ -25,8 +25,13 @@ ai_for_social_good_2 : |
  comprehension of other cultures and languages via the use of artificial 
  intelligence, which can also be used to help people comprehend other 
  cultures and languages.
-
-
+ 
+crowdsourcing_1 : |
+ According to the findings of new research, AI could one day be able to instruct humans in the art of independent thought. According to the findings of a   study that was carried out by a group of academics at MIT, it is possible that AI might provide people a means by which they can learn how to think for   themselves and make judgments independently. The research included the use of an algorithm for machine learning to the process of training a model that   could be utilized to think about issues and come up with answers. The model was able to address challenges that entailed how to make a choice, how to     store data, and how to find a solution to the problem.
+ 
+crowdsourcing_2 : |
+ This project is the first of its type to ever employ AI to teach people how to think independently for themselves. The study group thinks that this        might be a means for people to become more informed and effective in the field of decision-making, and they feel that this could be accomplished by     using artificial intelligence.
+ 
 layout: areas_of_research
 ---
-content
+
