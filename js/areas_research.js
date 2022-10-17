@@ -32,43 +32,43 @@ $("#Areas_research_4").click(function () {
 /////////////////////////////////////////////////
 $(function(){
     $("#home_1").on("click",function(){
-        window.location = "index-main.html#home_11";
+        window.location = "index.html#home_11";
     });
 });
 $(function(){
     $("#home_2").on("click",function(){
-        window.location = "index-main.html#home_22";
+        window.location = "index.html#home_22";
     });
 });
 $(function(){
     $("#home_3").on("click",function(){
-        window.location = "index-main.html#home_33";
+        window.location = "index.html#home_33";
     });
 });
 $(function(){
     $("#home_4").on("click",function(){
-        window.location = "index-main.html#home_44";
+        window.location = "index.html#home_44";
     });
 });
 ////////////////////////////////////////////////////////////////
 $(function(){
     $("#empowerment_1").on("click",function(){
-        window.location = "index.empowerment.html#empowerment_11";
+        window.location = "empowerment.html#empowerment_11";
     });
 });
 
 $(function(){
     $("#empowerment_2").on("click",function(){
-        window.location = "index.empowerment.html#empowerment_22";
+        window.location = "empowerment.html#empowerment_22";
     });
 });
 $(function(){
     $("#empowerment_3").on("click",function(){
-        window.location = "index.empowerment.html#empowerment_33";
+        window.location = "empowerment.html#empowerment_33";
     });
 });
 $(function(){
     $("#empowerment_4").on("click",function(){
-        window.location = "index.empowerment.html#empowerment_44";
+        window.location = "empowerment.html#empowerment_44";
     });
 });
