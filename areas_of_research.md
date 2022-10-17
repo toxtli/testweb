@@ -1,7 +1,6 @@
 ---
 title: 
 
-
 trust_worthy_AI : |
  When it comes to making judgments and providing responses to inquiries, artificial intelligence systems are trustworthy because they are trustworthy.      They are also reliable in terms of comprehending and reacting to human contact, which is a crucial aspect of this field. There are a lot of different      applications for artificial intelligence that may be used to make judgments, and some of those applications are more likely to produce conclusions     that are in accordance with human values and preferences than others are.
 <br>
@@ -28,8 +27,6 @@ ai_for_social_good_2 : |
  cultures and languages.
 
 
- 
-    
-
 layout: areas_of_research
 ---
+content
