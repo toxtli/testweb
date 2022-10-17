@@ -23,7 +23,7 @@ team_member_2_designation : |
 team_member_3_name : |
   Ravindu Tharanga Perera
 team_member_3_designation : |
-  Volanteer Researcher
+  Volunteer Researcher
 
 
 layout: team
