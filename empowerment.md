@@ -1,5 +1,5 @@
 ---
-title: 
+title: Empowerment
 layout: empowerment
 
 empowerment_concept: |
