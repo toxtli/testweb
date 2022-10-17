@@ -36,7 +36,7 @@ mutually_beneficial : |
   with it, resulting in enhanced performance.
   
 well_being_1 : |
-  he ability of artificial intelligence to assist people 
+  The ability of artificial intelligence to assist people 
   in comprehending and adapting to new ways of life is one manner 
   in which AI contributes to the well-being of humans. 
   This has the potential to assist enhance the overall quality of life for people, 
