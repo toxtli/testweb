@@ -1,6 +1,6 @@
 ---
 title: Empowerment
-layout: empowerment
+
 
 empowerment_concept: |
   Empowerment Concept focuses on how artificial intelligence can assist individuals in becoming more powerful. This term is frequently used to explain how   AI can assist individuals in becoming more self-sufficient and productive. The objective of the Empowerment Concept is to make it simpler for people to     become power players in their life and to enhance their potential to influence the world around them.
@@ -34,5 +34,5 @@ mutually_beneficial: |
   facilitated by the use of artificial intelligence
 
 
-
+layout: empowerment
 ---
