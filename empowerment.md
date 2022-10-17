@@ -3,14 +3,37 @@ title: Empowerment
 
 
 empowerment_concept: |
-  The Human-AI Empowerment research group at Clemson University is one of the few research organizations in the world whose only objective is the advancement and application of artificial intelligence on a worldwide scale. Our research is based on the development of what is known as "human-centered computing," which is designed to be helpful to people in both an effective and efficient manner.
-  <br><br>
-  Machine learning algorithms, natural language processing systems, and deep learning systems are just some of the AI-related research tools that our team of researchers has begun developing and is now in the process of building. We are developing AI-based software and solutions that have the potential to be used in a wide range of fields, such as the medical field, the educational system, and the corporate world.
+  The Empowerment Concept focuses on how artificial 
+  intelligence can assist individuals in becoming more powerful. 
+  This term is frequently used to explain how AI can assist individuals 
+  in becoming more self-sufficient and productive. 
+  The objective of the Empowerment Concept is to make it simpler for
+   people to become power players in their life and to enhance 
+   their potential to influence the world around them.
+   <br>
+  In 2012, Google introduced the Empowerment Concept for 
+  the first time. The purpose of the concept is to make it 
+  simpler for people to have greater control over their life 
+  and to enhance their ability to get their way in the world. 
+  The notion can be utilized to assist individuals become more influential 
+  in their personal lives, to boost their ability to complete tasks, 
+  and to raise their influence in the community.
   
 mutually_beneficial : |
-  Our group is conducting studies to investigate how the use of artificial intelligence might be put to work to enhance the performance of human activities. We seek to use artificial intelligence in a variety of different ways to increase the efficiency of human work, and some of those ways include machine learning, natural language processing, and other types of technologies that fall under the umbrella of artificial intelligence. We are also interested in the use of machine learning to enhance the accuracy of work performed by humans. This may be accomplished through identifying patterns of data consumption, such as trends and patterns, as well as by instructing computers to have a greater understanding of human feelings. In addition to this, they want to implement technologies that use artificial intelligence in the hopes of increasing the accuracy of human decision-making. This will be accomplished through gaining an understanding of how to recognize patterns and patterns of use within data, as well as by instructing computers to make judgments that are more accurately based on data.
-  <br><br>
-  Following is a list of some of the ways that artificial intelligence technology is being used to make human work more efficient: Finding patterns in data, as well as patterns of use in data, and teaching computers to understand human emotions more correctly are both examples of applications for machine learning. The accuracy of human judgements and the activities that need human involvement will both benefit from this. The use of natural language processing allows computers to improve their comprehension of human language and their ability to reach more accurate conclusions. This will help to enhance the efficiency of human activities such as doing business, engaging in marketing, and making decisions.
+  Mutually beneficial artificial intelligence is advantageous 
+  because it fosters cooperation between humans and artificial intelligence.
+  Together, they can work to better the world for everyone's benefit.
+  Artificial intelligence can assist us in making better decisions 
+  and in comprehending information.
+  It can help us discover innovative ways to 
+  enhance the quality of life for all individuals.
+  <br>
+  A potential advantage of mutually beneficial artificial intelligence
+  is that it could assist individuals in automating their life,
+  enabling them to complete more work without losing focus.
+  Additionally, mutually beneficial artificial intelligence could 
+  be employed to increase the productivity of persons completing work
+  with it, resulting in enhanced performance.
   
 
 
