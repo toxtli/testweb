@@ -35,7 +35,7 @@ mutually_beneficial : |
   be employed to increase the productivity of persons completing work
   with it, resulting in enhanced performance.
   
- well_being_1 : |
+well_being_1 : |
   he ability of artificial intelligence to assist people 
   in comprehending and adapting to new ways of life is one manner 
   in which AI contributes to the well-being of humans. 
@@ -47,7 +47,7 @@ mutually_beneficial : |
   base. Humans may benefit from artificial intelligence not just 
   in terms of their ability to enhance their communication abilities
   but also in terms of their ability to better grasp the world around them.
-  
+
 well_being_2 : |
   The use of artificial intelligence may also assist people in developing 
   a deeper understanding of themselves as well as the dynamics of their 
@@ -67,7 +67,7 @@ evaluating_in_real_life_settings_1 : |
   or not AI is successful and efficient, choosing the appropriate tool for the 
   task at hand, and determining whether or not training is required.
   
- evaluating_in_real_life_settings_2 : |
+evaluating_in_real_life_settings_2 : |
   A practical assessment of AI would include 
   picking a problem to solve that involved avoiding and navigating obstacles, 
   deciding which tool was best suited for the task at hand, and evaluating 
