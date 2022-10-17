@@ -7,7 +7,7 @@ our_history : |
 our_mission : |
   Except to obtain some advantage from it? But who has any right to find fault with a consequences.
   
-our_vission : |
+our_vision : |
   Except to obtain some advantage from it? But who has any right to find fault with a consequences.
   
 team_member_1_name : |
