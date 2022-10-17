@@ -30,8 +30,27 @@ use_inspired_AI_4: |
   offer a more realistic portrayal of the learning process than humans can. Due to its ability 
   to support a more quick and more efficient learning process, this is often used in business contexts.
   
+human_centric_approach_1: | 
+  The approach to Artificial Intelligence that prioritizes human
+  comfort and convenience called human-centric. In the past, artificial 
+  intelligence has been utilized to construct systems that comprehend 
+  and react to events more effectively. Nonetheless, this is no longer
+  the sole viable option. Machine learning may also be utilized to construct 
+  systems with enhanced situational comprehension and responsiveness.
+  This is because machine learning is predicated on the notion that 
+  computers can be taught to learn from data and that this data can be
+  utilized to construct systems that are better at comprehending and reacting to circumstances.
   
-  
+human_centric_approach_2: |  
+  There are other AI techniques that are centered on humans.
+  Among these methods is reinforcement learning. This is the process 
+  of teaching a system to do something based on a series of examples. 
+  This information is then utilized to develop systems that comprehend 
+  and react to circumstances more effectively. Potty training is
+  a different method. This is when a system is taught so that it knows 
+  how to do a task when given a potty. This information is then utilized
+  to develop systems that comprehend and 
+  react to circumstances more effectively. 
   
   
 layout: default
