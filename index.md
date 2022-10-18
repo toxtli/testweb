@@ -52,17 +52,17 @@ human_centric_approach_2: |
   to develop systems that comprehend and 
   react to circumstances more effectively.
   
- news_1: |
+news_1: |
   Musk predicts AI will be superior to humans within five years
- news_1_date: |
+news_1_date: |
   11 OCT, 2022
  
- news_2: |
+news_2: |
   Justin Swansburg, DataRobot: On combining human and machine intelligence
 news_2_date: | 
   11 OCT, 2022
 
- news_3: |
+news_3: |
   OpenAI removes waitlist for DALL-E text-to-image generator
 news_3_date: |
   11 OCT, 2022
