@@ -1,7 +1,6 @@
 ---
 title: Homepage
 who_we_are: |
-  ![who_we_are](/images/assets/who we are.png){:class="img-responsive"}
 
   The Human-AI Empowerment research group at Clemson University is one of the few research organizations in the world whose only objective is the advancement and application of artificial intelligence on a worldwide scale. Our research is based on the development of what is known as "human-centered computing," which is designed to be helpful to people in both an effective and efficient manner.
   <br><br>
@@ -69,6 +68,7 @@ news_3: |
 news_3_date: |
   11 OCT, 2022
  
+![who_we_are](/images/assets/who we are.png){:class="img-responsive"}
   
   
 layout: default
