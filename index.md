@@ -72,5 +72,5 @@ news_3_date: |
   
 layout: default
 ---
-![who_we_are]( http://www.carlostoxtli.com/testweb/images/assets/who we are.png)
+![who_we_are](/images/assets/who we are.png)
 
