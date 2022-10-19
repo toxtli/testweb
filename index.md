@@ -69,6 +69,7 @@ news_3: |
 news_3_date: |
   11 OCT, 2022
 
+main_image: images/assets/Untitled.png
 home_image_1: images/assets/who_we_are.png
 home_image_2: images/assets/data_analysis.png
 home_image_3: images/assets/main_3.png
