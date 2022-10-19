@@ -53,7 +53,18 @@ human_centric_approach_2: |
   how to do a task when given a potty. This information is then utilized
   to develop systems that comprehend and 
   react to circumstances more effectively.
-  
+
+news:
+  - title: NEW Musk predicts AI will be superior to humans within five years
+    date: 11 OCT, 2022
+    image: images/assets/news1.jpg
+  - title: Justin Swansburg, DataRobot: On combining human and machine intelligence
+    date: 11 OCT, 2022
+    image: images/assets/news2.jpg
+  - title: OpenAI removes waitlist for DALL-E text-to-image generator
+    date: 11 OCT, 2022
+    image: images/assets/news3.jpg
+
 news_1: |
   Musk predicts AI will be superior to humans within five years
 news_1_date: |
