@@ -61,7 +61,7 @@ news:
     date: "11 OCT, 2022"
     image: "images/assets/news3.jpg"
     
-use_inspired_content:
+use_inspired:
   -
     image: "images/assets/main_3.png"
     title: "Use Inspired AI"
