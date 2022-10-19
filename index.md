@@ -69,7 +69,7 @@ news_3: |
 news_3_date: |
   11 OCT, 2022
 
-image: images/assets/who_we_are.png
+image:images/assets/who_we_are.png
 
  
 layout: default
