@@ -11,28 +11,6 @@ what_we_do: |
   Our group is conducting studies to investigate how the use of artificial intelligence might be put to work to enhance the performance of human            activities. We seek to use artificial intelligence in a variety of different ways to increase the efficiency of human work, and some of those ways        include machine learning, natural language processing, and other types of technologies that fall under the umbrella of artificial intelligence. We are also interested in the use of machine learning to enhance the accuracy of work performed by humans. This may be accomplished through identifying patterns of data consumption, such as trends and patterns, as well as by instructing computers to have a greater understanding of human feelings. In addition to this, they want to implement technologies that use artificial intelligence in the hopes of increasing the accuracy of human decision-making. This will be accomplished through gaining an understanding of how to recognize patterns and patterns of use within data, as well as by instructing computers to make judgments that are more accurately based on data.
   <br><br>
   Following is a list of some of the ways that artificial intelligence technology is being used to make human work more efficient: Finding patterns in        data,as well as patterns of use in data, and teaching computers to understand human emotions more correctly are both examples of applications for         machine learning.The accuracy of human judgements and the activities that need human involvement will both benefit from this. The use of natural language   processing allows computers to improve their comprehension of human language and their ability to reach more accurate conclusions. This will help to       enhance the efficiency of human activities such as doing business, engaging in marketing, and making decisions.
-  
-human_centric_approach_1: | 
-  The approach to Artificial Intelligence that prioritizes human
-  comfort and convenience called human-centric. In the past, artificial 
-  intelligence has been utilized to construct systems that comprehend 
-  and react to events more effectively. Nonetheless, this is no longer
-  the sole viable option. Machine learning may also be utilized to construct 
-  systems with enhanced situational comprehension and responsiveness.
-  This is because machine learning is predicated on the notion that 
-  computers can be taught to learn from data and that this data can be
-  utilized to construct systems that are better at comprehending and reacting to circumstances.
-  
-human_centric_approach_2: |  
-  There are other AI techniques that are centered on humans.
-  Among these methods is reinforcement learning. This is the process 
-  of teaching a system to do something based on a series of examples. 
-  This information is then utilized to develop systems that comprehend 
-  and react to circumstances more effectively. Potty training is
-  a different method. This is when a system is taught so that it knows 
-  how to do a task when given a potty. This information is then utilized
-  to develop systems that comprehend and 
-  react to circumstances more effectively.
 
 news_1: |
   Musk predicts AI will be superior to humans within five years
@@ -98,6 +76,51 @@ use_inspired_AI_4: |
   offer a more realistic portrayal of the learning process than humans can. Due to its ability 
   to support a more quick and more efficient learning process, this is often used in business contexts.
 
+human_centric_approach_content:
+  -
+    value: "
+      The approach to Artificial Intelligence that prioritizes human
+      comfort and convenience called human-centric. In the past, artificial 
+      intelligence has been utilized to construct systems that comprehend 
+      and react to events more effectively. Nonetheless, this is no longer
+      the sole viable option. Machine learning may also be utilized to construct 
+      systems with enhanced situational comprehension and responsiveness.
+      This is because machine learning is predicated on the notion that 
+      computers can be taught to learn from data and that this data can be
+      utilized to construct systems that are better at comprehending and reacting to circumstances."
+  -
+    value: "
+      There are other AI techniques that are centered on humans.
+      Among these methods is reinforcement learning. This is the process 
+      of teaching a system to do something based on a series of examples. 
+      This information is then utilized to develop systems that comprehend 
+      and react to circumstances more effectively. Potty training is
+      a different method. This is when a system is taught so that it knows 
+      how to do a task when given a potty. This information is then utilized
+      to develop systems that comprehend and 
+      react to circumstances more effectively."
+
+human_centric_approach_1: | 
+  The approach to Artificial Intelligence that prioritizes human
+  comfort and convenience called human-centric. In the past, artificial 
+  intelligence has been utilized to construct systems that comprehend 
+  and react to events more effectively. Nonetheless, this is no longer
+  the sole viable option. Machine learning may also be utilized to construct 
+  systems with enhanced situational comprehension and responsiveness.
+  This is because machine learning is predicated on the notion that 
+  computers can be taught to learn from data and that this data can be
+  utilized to construct systems that are better at comprehending and reacting to circumstances.
+  
+human_centric_approach_2: |  
+  There are other AI techniques that are centered on humans.
+  Among these methods is reinforcement learning. This is the process 
+  of teaching a system to do something based on a series of examples. 
+  This information is then utilized to develop systems that comprehend 
+  and react to circumstances more effectively. Potty training is
+  a different method. This is when a system is taught so that it knows 
+  how to do a task when given a potty. This information is then utilized
+  to develop systems that comprehend and 
+  react to circumstances more effectively.
  
 layout: default
 ---
