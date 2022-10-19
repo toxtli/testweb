@@ -79,7 +79,7 @@ use_inspired_AI_4: |
 human_centric_approach_content:
   -
     value: "
-      The approach to Artificial Intelligence that prioritizes human
+      NEW The approach to Artificial Intelligence that prioritizes human
       comfort and convenience called human-centric. In the past, artificial 
       intelligence has been utilized to construct systems that comprehend 
       and react to events more effectively. Nonetheless, this is no longer
@@ -90,7 +90,7 @@ human_centric_approach_content:
       utilized to construct systems that are better at comprehending and reacting to circumstances."
   -
     value: "
-      There are other AI techniques that are centered on humans.
+      NEW There are other AI techniques that are centered on humans.
       Among these methods is reinforcement learning. This is the process 
       of teaching a system to do something based on a series of examples. 
       This information is then utilized to develop systems that comprehend 
