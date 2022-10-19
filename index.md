@@ -63,8 +63,7 @@ news:
 
 use_inspired_content:
   -
-    image:  "images/assets/main_3.png"
-  -
+    image: "images/assets/main_3.png"
     title: "Use Inspired AI"
   -
     value: "
