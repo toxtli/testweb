@@ -1,6 +1,12 @@
 ---
 title: Homepage
 
+
+main_image:
+ -
+    image: "images/assets/Untitled.png"
+
+
 three_elements:
  -
     icon: "images/icon/icon_17.svg"
@@ -41,9 +47,6 @@ what_we_do:
              
 
 
-main_image: images/assets/Untitled.png
-
-home_image_4: images/assets/main_4.png
 
 
 news:
