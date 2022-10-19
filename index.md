@@ -12,20 +12,6 @@ what_we_do: |
   <br><br>
   Following is a list of some of the ways that artificial intelligence technology is being used to make human work more efficient: Finding patterns in        data,as well as patterns of use in data, and teaching computers to understand human emotions more correctly are both examples of applications for          machine learning.The accuracy of human judgements and the activities that need human involvement will both benefit from this. The use of natural         language   processing allows computers to improve their comprehension of human language and their ability to reach more accurate conclusions. This will    help to enhance the efficiency of human activities such as doing business, engaging in marketing, and making decisions.
 
-news_1: |
-  Musk predicts AI will be superior to humans within five years
-news_1_date: |
-  11 OCT, 2022
- 
-news_2: |
-  Justin Swansburg, DataRobot: On combining human and machine intelligence
-news_2_date: | 
-  11 OCT, 2022
-
-news_3: |
-  OpenAI removes waitlist for DALL-E text-to-image generator
-news_3_date: |
-  11 OCT, 2022
 
 main_image: images/assets/Untitled.png
 home_image_1: images/assets/who_we_are.png
@@ -40,7 +26,7 @@ news_image_3: images/assets/news3.jpg
 news:
   -
     title: "
-    NEW Musk predicts AI will be superior to humans within five years"
+     Musk predicts AI will be superior to humans within five years"
     date: "11 OCT, 2022"
     image: "images/assets/news1.jpg"
   -
