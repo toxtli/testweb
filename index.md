@@ -42,7 +42,7 @@ what_we_do:
 
 
 main_image: images/assets/Untitled.png
-home_image_3: images/assets/main_3.png
+
 home_image_4: images/assets/main_4.png
 
 
@@ -92,6 +92,11 @@ use_inspired_content:
       offer a more realistic portrayal of the learning process than humans can. Due to its ability 
       to support a more quick and more efficient learning process, this is often used in business contexts."
 
+human_centric_approach:
+  -
+  title: "Human-Centric Approach"
+  image: "images/assets/main_4.png"
+  
 human_centric_approach_content:
   -
     value: "
