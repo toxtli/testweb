@@ -565,8 +565,8 @@
 
 
 								<ul class="style-none list-item">
-									{% for value in page.use_inspired_content %}
-									<li data-aos="fade-up"> {{ value }}</li>
+									{% for content in page.use_inspired_content %}
+									<li data-aos="fade-up"> {{ content.value }}</li>
 									{% endfor %}
 									<!--
  									<li data-aos="fade-up"> {{ page.use_inspired_AI_1 }}</li>
