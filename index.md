@@ -53,28 +53,31 @@ news:
     image: "images/assets/news3.jpg"
 
 use_inspired_content:
-  - One
-  - Two
+  -
+    value: "
+      Use-inspired Artificial intelligence (AI) is 
+      often designed to be rapid and effective, since it can do challenging tasks
+      with relative ease. 
+      There are a multitude of methods via which artificial intelligence may be used
+      to make our lives simpler.hending and reacting to circumstances."
+  -
+    value: "
+      It may be applied to aid in the decision-making process. Artificial intelligence may be advantageous to decision-making since it can deliver more         accurate responses than humans. As a technique of making judgments in a more rapid and efficient manner, this is used often in business contexts.
 
-use_inspired_AI_1: |
-  Use-inspired Artificial intelligence (AI) is 
-  often designed to be rapid and effective, since it can do challenging tasks
-  with relative ease. 
-  There are a multitude of methods via which artificial intelligence may be used
-  to make our lives simpler.
-use_inspired_AI_2: | 
-  It may be applied to aid in the decision-making process. Artificial intelligence may be advantageous to decision-making since it can deliver more           accurate responses than humans. As a technique of making judgments in a more rapid and efficient manner, this is used often in business contexts.
-use_inspired_AI_3: | 
-  It may be used to improve the overall working environment. 
-  Artificial intelligence may be used to enhance the working environment since it can offer
-  a more accurate representation of the working environment than humans.
-  This is used often in businesses because of its ability to provide a more efficient
-  and productive working environment.
-use_inspired_AI_4: | 
-  It may be used as a tool to aid the learning process.
-  Artificial intelligence may be deployed to aid in the learning process since it may 
-  offer a more realistic portrayal of the learning process than humans can. Due to its ability 
-  to support a more quick and more efficient learning process, this is often used in business contexts.
+  -
+    value:
+      It may be used to improve the overall working environment. 
+      Artificial intelligence may be used to enhance the working environment since it can offer
+      a more accurate representation of the working environment than humans.
+      This is used often in businesses because of its ability to provide a more efficient
+      and productive working environment.
+   -
+    value:
+      It may be used as a tool to aid the learning process.
+      Artificial intelligence may be deployed to aid in the learning process since it may 
+      offer a more realistic portrayal of the learning process than humans can. Due to its ability 
+      to support a more quick and more efficient learning process, this is often used in business contexts.
+
 
 human_centric_approach_content:
   -
@@ -100,28 +103,7 @@ human_centric_approach_content:
       to develop systems that comprehend and 
       react to circumstances more effectively."
 
-human_centric_approach_1: | 
-  The approach to Artificial Intelligence that prioritizes human
-  comfort and convenience called human-centric. In the past, artificial 
-  intelligence has been utilized to construct systems that comprehend 
-  and react to events more effectively. Nonetheless, this is no longer
-  the sole viable option. Machine learning may also be utilized to construct 
-  systems with enhanced situational comprehension and responsiveness.
-  This is because machine learning is predicated on the notion that 
-  computers can be taught to learn from data and that this data can be
-  utilized to construct systems that are better at comprehending and reacting to circumstances.
-  
-human_centric_approach_2: |  
-  There are other AI techniques that are centered on humans.
-  Among these methods is reinforcement learning. This is the process 
-  of teaching a system to do something based on a series of examples. 
-  This information is then utilized to develop systems that comprehend 
-  and react to circumstances more effectively. Potty training is
-  a different method. This is when a system is taught so that it knows 
-  how to do a task when given a potty. This information is then utilized
-  to develop systems that comprehend and 
-  react to circumstances more effectively.
- 
+
 layout: default
 ---
 
