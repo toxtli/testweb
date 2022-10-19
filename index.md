@@ -74,9 +74,9 @@ home_image_2: images/assets/data_analysis.png
 home_image_3: images/assets/main_3.png
 home_image_4: images/assets/main_4.png
 
-news_image_1: images/assets/news1.png
-news_image_2: images/assets/news2.png
-news_image_3: images/assets/news3.png
+news_image_1: images/assets/news1.jpg
+news_image_2: images/assets/news2.jpg
+news_image_3: images/assets/news3.jpg
 
 
 
