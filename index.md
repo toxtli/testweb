@@ -67,10 +67,9 @@ news_3: |
   OpenAI removes waitlist for DALL-E text-to-image generator
 news_3_date: |
   11 OCT, 2022
+
  
-who_we_are_image: |
- 
- ![who_we_are](https://www.carlostoxtli.com/testweb/images/assets/who we are.png)
+![who_we_are](https://www.carlostoxtli.com/testweb/images/assets/who we are.png)
 
  
 layout: default
