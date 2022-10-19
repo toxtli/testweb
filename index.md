@@ -70,7 +70,10 @@ news_3_date: |
  
 who_we_are_image:
  
- ![who_we_are](/images/assets/who we are.png)
+ ![who_we_are](images/assets/who we are.png)
+Image:
+ 
+ ![who_we_are](images/assets/who we are.png)
  
 layout: default
 ---
