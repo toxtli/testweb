@@ -12,26 +12,6 @@ what_we_do: |
   <br><br>
   Following is a list of some of the ways that artificial intelligence technology is being used to make human work more efficient: Finding patterns in        data,as well as patterns of use in data, and teaching computers to understand human emotions more correctly are both examples of applications for         machine learning.The accuracy of human judgements and the activities that need human involvement will both benefit from this. The use of natural language   processing allows computers to improve their comprehension of human language and their ability to reach more accurate conclusions. This will help to       enhance the efficiency of human activities such as doing business, engaging in marketing, and making decisions.
   
-use_inspired_AI_1: |
-  Use-inspired Artificial intelligence (AI) is 
-  often designed to be rapid and effective, since it can do challenging tasks
-  with relative ease. 
-  There are a multitude of methods via which artificial intelligence may be used
-  to make our lives simpler.
-use_inspired_AI_2: | 
-  It may be applied to aid in the decision-making process. Artificial intelligence may be advantageous to decision-making since it can deliver more           accurate responses than humans. As a technique of making judgments in a more rapid and efficient manner, this is used often in business contexts.
-use_inspired_AI_3: | 
-  It may be used to improve the overall working environment. 
-  Artificial intelligence may be used to enhance the working environment since it can offer
-  a more accurate representation of the working environment than humans.
-  This is used often in businesses because of its ability to provide a more efficient
-  and productive working environment.
-use_inspired_AI_4: | 
-  It may be used as a tool to aid the learning process.
-  Artificial intelligence may be deployed to aid in the learning process since it may 
-  offer a more realistic portrayal of the learning process than humans can. Due to its ability 
-  to support a more quick and more efficient learning process, this is often used in business contexts.
-  
 human_centric_approach_1: | 
   The approach to Artificial Intelligence that prioritizes human
   comfort and convenience called human-centric. In the past, artificial 
@@ -81,7 +61,8 @@ news_image_3: images/assets/news3.jpg
 
 news:
   -
-    title: "NEW Musk predicts AI will be superior to humans within five years"
+    title: | 
+    NEW Musk predicts AI will be superior to humans within five years
     date: "11 OCT, 2022"
     image: "images/assets/news1.jpg"
   -
@@ -93,7 +74,25 @@ news:
     date: "11 OCT, 2022"
     image: "images/assets/news3.jpg"
 
-
+use_inspired_AI_1: |
+  Use-inspired Artificial intelligence (AI) is 
+  often designed to be rapid and effective, since it can do challenging tasks
+  with relative ease. 
+  There are a multitude of methods via which artificial intelligence may be used
+  to make our lives simpler.
+use_inspired_AI_2: | 
+  It may be applied to aid in the decision-making process. Artificial intelligence may be advantageous to decision-making since it can deliver more           accurate responses than humans. As a technique of making judgments in a more rapid and efficient manner, this is used often in business contexts.
+use_inspired_AI_3: | 
+  It may be used to improve the overall working environment. 
+  Artificial intelligence may be used to enhance the working environment since it can offer
+  a more accurate representation of the working environment than humans.
+  This is used often in businesses because of its ability to provide a more efficient
+  and productive working environment.
+use_inspired_AI_4: | 
+  It may be used as a tool to aid the learning process.
+  Artificial intelligence may be deployed to aid in the learning process since it may 
+  offer a more realistic portrayal of the learning process than humans can. Due to its ability 
+  to support a more quick and more efficient learning process, this is often used in business contexts.
 
  
 layout: default
