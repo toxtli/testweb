@@ -565,10 +565,15 @@
 
 
 								<ul class="style-none list-item">
-									<li data-aos="fade-up"> {{ page.use_inspired_AI_1 }}</li>
+									{% for value in page.use_inspired_content %}
+									<li data-aos="fade-up"> {{ value }}</li>
+									{% endfor %}
+									<!--
+ 									<li data-aos="fade-up"> {{ page.use_inspired_AI_1 }}</li>
 									<li data-aos="fade-up"> {{ page.use_inspired_AI_2 }}</li>
 									<li data-aos="fade-up" data-aos-delay="100"> {{ page.use_inspired_AI_3 }}</li>
-									<li data-aos="fade-up" data-aos-delay="200"> {{ page.use_inspired_AI_4 }}</li> 
+									<li data-aos="fade-up" data-aos-delay="200"> {{ page.use_inspired_AI_4 }}</li>
+									-->
 								</ul>
 							</div> <!-- /.block-style-nine -->
 						</div>
