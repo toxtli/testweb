@@ -18,13 +18,13 @@ team_member_1_name : |
   Dr.Carlos Toxtli
 team_member_1_designation : |
   Assistant Professor
-team_member_image_1: images/assets/carlos1.png
+team_member_image_1: images/assets/carlos1.jpg
 
 team_member_2_name : |
   Cecilia Delgado Solorzano
 team_member_2_designation : |
    Research Assistant
-team_member_image_2: images/assets/ceclia.png
+team_member_image_2: images/assets/ceclia.jpg
 
    
 team_member_3_name : |
