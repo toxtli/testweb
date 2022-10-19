@@ -1,6 +1,26 @@
 ---
 title: Homepage
 
+three_elements:
+  -
+    icon: "images/icon/icon_17.svg"
+    title: "Data Science"
+    discription: "
+     Convert data noise to intelligent insights for quis competitive differentiation."
+   
+ -
+    icon: "images/icon/icon_18.svg"
+    title: "Machine Learning"
+    discription: "
+     Convert data noise to intelligent insights for quis competitive differentiation."
+ -
+    icon: "images/icon/icon_19.svg"
+    title: "Customer Support"
+    discription: "
+     Convert data noise to intelligent insights for quis competitive differentiation.""
+
+
+
 who_we_are: |
 
  The Human-AI Empowerment research group at Clemson University is one of the few research organizations in the world whose only objective is the             advancement and application of artificial intelligence on a worldwide scale.Our research is based on the development of what is known as "human-centered   computing,"which is designed to be helpful to people in both an effective and efficient manner.
@@ -19,9 +39,6 @@ home_image_2: images/assets/data_analysis.png
 home_image_3: images/assets/main_3.png
 home_image_4: images/assets/main_4.png
 
-news_image_1: images/assets/news1.jpg
-news_image_2: images/assets/news2.jpg
-news_image_3: images/assets/news3.jpg
 
 news:
   -
