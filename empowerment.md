@@ -74,7 +74,14 @@ evaluating_in_real_life_settings_2 : |
   the AI's level of efficiency and effectiveness. would have to be done in 
   order to decide whether training is required.
   
-  
+empowerment_image_1: images/assets/empowerment_1.png
+empowerment_image_2: images/assets/empowerment_2.png
+empowerment_image_3: images/assets/empowerment_3.png
+empowerment_image_4: images/assets/empowerment_4.png
+ 
+ 
+ 
+ 
 layout: empowerment
 ---
 
