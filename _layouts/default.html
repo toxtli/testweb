@@ -618,9 +618,14 @@
 									<h2 class="main-title">Human-Centric Approach</h2>
 								</div> <!-- /.title-style-one -->
 								<ul class="style-none list-item">
+									
+									{% for content in page.human_centric_approach_content %}
+									<li data-aos="fade-up">{{ content.value }}</li>
+									{% endfor %}
+<!-- 									
 									<li data-aos="fade-up">{{ page.human_centric_approach_1 }}</li>
 
-									<li data-aos="fade-up" >{{ page.human_centric_approach_2 }}</li>
+									<li data-aos="fade-up" >{{ page.human_centric_approach_2 }}</li> -->
 									<!-- <li data-aos="fade-up" data-aos-delay="200">Review your practice questions and learn how to improve.</li> -->
 								</ul>
 							</div> <!-- /.block-style-nine -->
