@@ -17,7 +17,7 @@ three_elements:
     icon: "images/icon/icon_19.svg"
     title: "Customer Support"
     discription: "
-     Convert data noise to intelligent insights for quis competitive differentiation.""
+     Convert data noise to intelligent insights for quis competitive differentiation."
 
 
 
