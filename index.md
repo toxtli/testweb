@@ -2,7 +2,7 @@
 title: Homepage
 
 three_elements:
-  -
+ -
     icon: "images/icon/icon_17.svg"
     title: "Data Science"
     discription: "
