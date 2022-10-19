@@ -32,6 +32,12 @@ crowdsourcing_1 : |
 crowdsourcing_2 : |
  This project is the first of its type to ever employ AI to teach people how to think independently for themselves. The study group thinks that this        might be a means for people to become more informed and effective in the field of decision-making, and they feel that this could be accomplished by     using artificial intelligence.
  
+ 
+areas_of_research_image_1: images/assets/trustworthy.png
+areas_of_research_image_2: images/assets/active_learning.png
+areas_of_research_image_3: images/assets/social_good.png
+areas_of_research_image_4: images/assets/crowd.png
+ 
 layout: areas_of_research
 ---
 
