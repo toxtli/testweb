@@ -60,11 +60,13 @@ news:
     title: "OpenAI removes waitlist for DALL-E text-to-image generator"
     date: "11 OCT, 2022"
     image: "images/assets/news3.jpg"
-
+    
 use_inspired_content:
   -
     image: "images/assets/main_3.png"
     title: "Use Inspired AI"
+
+use_inspired_content:
   -
     value: "
       Use-inspired Artificial intelligence (AI) is 
