@@ -21,7 +21,7 @@ three_elements:
      
 who_we_are:
  -
-    image: "images/icon/who_we_are.png"
+    image: "images/assets/who_we_are.png"
     title: "Who we are?"
     discription: "
      The Human-AI Empowerment research group at Clemson University is one of the few research organizations in the world whose only objective is the            advancement and application of artificial intelligence on a worldwide scale.Our research is based on the development of what is known as human-            centered computing,which is designed to be helpful to people in both an effective and efficient manner.
