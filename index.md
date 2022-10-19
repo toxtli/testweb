@@ -68,10 +68,10 @@ news_3: |
 news_3_date: |
   11 OCT, 2022
 
-image: /images/assets/who we are.png
+image: https://www.carlostoxtli.com/testweb/images/assets/who we are.png
 
  
 layout: default
 ---
- ![]({{ page.image | relative_url }})
+![]({{ page.image | relative_url }})
 
