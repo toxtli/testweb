@@ -74,5 +74,4 @@ image: https://www.carlostoxtli.com/testweb/images/assets/who we are.png
  
 layout: default
 ---
-![]({{ page.image | relative_url }})
 
