@@ -11,27 +11,27 @@ our_vision : |
   Except to obtain some advantage from it? But who has any right to find fault with a consequences.
 
 
-group_image:images/assets/group.jpg
+group_image: images/assets/group.jpg
 
 
 team_member_1_name : |
   Dr.Carlos Toxtli
 team_member_1_designation : |
   Assistant Professor
-team_member_image_1:images/assets/carlos1.png
+team_member_image_1: images/assets/carlos1.png
 
 team_member_2_name : |
   Cecilia Delgado Solorzano
 team_member_2_designation : |
    Research Assistant
-team_member_image_2:images/assets/ceclia.png
+team_member_image_2: images/assets/ceclia.png
 
    
 team_member_3_name : |
   Ravindu Tharanga Perera
 team_member_3_designation : |
   Volunteer Researcher
-team_member_image_3:images/assets/ravindu.jpg
+team_member_image_3: images/assets/ravindu.jpg
 
 
 layout: team
