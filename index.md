@@ -71,13 +71,12 @@ use_inspired_content:
       a more accurate representation of the working environment than humans.
       This is used often in businesses because of its ability to provide a more efficient
       and productive working environment."
-   -
+  -
     value: "
       It may be used as a tool to aid the learning process.
       Artificial intelligence may be deployed to aid in the learning process since it may 
       offer a more realistic portrayal of the learning process than humans can. Due to its ability 
       to support a more quick and more efficient learning process, this is often used in business contexts."
-
 
 human_centric_approach_content:
   -
