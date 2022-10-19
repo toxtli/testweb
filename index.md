@@ -94,8 +94,8 @@ use_inspired_content:
 
 human_centric_approach:
   -
-  title: "Human-Centric Approach"
-  image: "images/assets/main_4.png"
+    title: "Human-Centric Approach"
+    image: "images/assets/main_4.png"
   
 human_centric_approach_content:
   -
