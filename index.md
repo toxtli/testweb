@@ -32,7 +32,7 @@ who_we_are:
      
 what_we_do:
  -
-    image: "images/icon/data_analysis.png"
+    image: "images/assets/data_analysis.png"
     title: "What we do?"
     discription: "
      Our group is conducting studies to investigate how the use of artificial intelligence might be put to work to enhance the performance of human             activities. We seek to use artificial intelligence in a variety of different ways to increase the efficiency of human work, and some of those ways         include machine learning, natural language processing, and other types of technologies that fall under the umbrella of artificial intelligence. We          are also interested in the use of machine learning to enhance the accuracy of work performed by humans. This may be accomplished through                  identifying patterns of data consumption, such as trends and patterns, as well as by instructing computers to have a greater understanding of human       feelings. In addition to this, they want to implement technologies that use artificial intelligence in the hopes of increasing the accuracy of human        decision- making. This will be accomplished through gaining an understanding of how to recognize patterns and patterns of use within data, as well       as by instructing computers to make judgments that are more accurately based on data.
