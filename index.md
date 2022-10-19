@@ -74,6 +74,10 @@ news:
     date: "11 OCT, 2022"
     image: "images/assets/news3.jpg"
 
+use_inspired_content:
+  - One
+  - Two
+
 use_inspired_AI_1: |
   Use-inspired Artificial intelligence (AI) is 
   often designed to be rapid and effective, since it can do challenging tasks
