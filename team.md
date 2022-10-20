@@ -44,11 +44,6 @@ member_3:
 
 
 
-
-
-
-
-
 layout: team
 ---
 
