@@ -25,21 +25,14 @@ empowerment_concept:
 
   
   
-mutually_beneficial : |
-  Mutually beneficial artificial intelligence is advantageous 
-  because it fosters cooperation between humans and artificial intelligence.
-  Together, they can work to better the world for everyone's benefit.
-  Artificial intelligence can assist us in making better decisions 
-  and in comprehending information.
-  It can help us discover innovative ways to 
-  enhance the quality of life for all individuals.
-  <br>
-  A potential advantage of mutually beneficial artificial intelligence
-  is that it could assist individuals in automating their life,
-  enabling them to complete more work without losing focus.
-  Additionally, mutually beneficial artificial intelligence could 
-  be employed to increase the productivity of persons completing work
-  with it, resulting in enhanced performance.
+mutually_beneficial : 
+  -
+    title: "Mutually beneficial"
+    content: "
+      Mutually beneficial artificial intelligence is advantageous because it fosters cooperation between humans and artificial intelligence. Together, they       can work to better the world for everyone's benefit. Artificial intelligence can assist us in making better decisions and in comprehending                  information. It can help us discover innovative ways to enhance the quality of life for all individuals.
+      A potential advantage of mutually beneficial artificial intelligence is that it could assist individuals in automating their life, enabling them to         complete more work without losing focus. Additionally, mutually beneficial artificial intelligence could be employed to increase the productivity of      persons completing work with it, resulting in enhanced performance."
+    image: "images/assets/empowerment_2.png"
+
   
 well_being_1 : |
   The ability of artificial intelligence to assist people 
