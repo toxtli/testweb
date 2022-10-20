@@ -25,7 +25,7 @@ empowerment_concept:
 
   
   
-mutually_benificial : 
+mutually_beneficial : 
   -
     title: "Mutually beneficial"
     content: "
