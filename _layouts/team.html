@@ -241,31 +241,25 @@
 	<div class="container">
 		<div class="row gx-xxl-5">
 			
-			
-			{% for text in page.three_elements %}
-				<div class="col-lg-4 col-sm-6 d-flex aos-init aos-animate" data-aos="fade-up">
-				  <div class="block-style-fourteen lg-mt-20">
-					<h5>{{ text.value[0].title}}</h5>
-					<p>{{ text.value[0].content }}</p>
-				  </div> <!-- /.block-style-fourteen -->
-			        </div>
-				
-			{% endfor %}
-<!-- 									
+			<div class="col-lg-4 col-sm-6 d-flex aos-init aos-animate" data-aos="fade-up">
+			  <div class="block-style-fourteen lg-mt-20">
+				<h5>{{ page.our_history[0].title }}</h5>
+				<p>{{ page.our_history[0].content }}</p>
+			  </div> <!-- /.block-style-fourteen -->
+			</div>
+									
 			<div class="col-lg-4 col-sm-6 d-flex aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 				<div class="block-style-fourteen lg-mt-20">
-					<h5>Our Mission</h5>
-					<p>{{ page.our_mission }}</p>
+					<h5>{{ page.our_mission[0].title }}</h5>
+					<p>{{ page.our_mission[0].content }}</p>
 				</div> <!-- /.block-style-fourteen -->
-<!-- 			</div> -->
-<!-- 			<div class="col-lg-4 d-flex aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+			</div>
+			<div class="col-lg-4 d-flex aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
 				<div class="block-style-fourteen lg-mt-20">
-					<h5>Our Vission</h5>
-					<p>{{ page.our_vision }}</p>
-				</div> -->
-				
-				<!-- /.block-style-fourteen -->
-<!-- 			</div> -->
+					<h5>{{ page.our_vission[0].title }}</h5>
+					<p>{{ page.our_vission[0].content }}</p>
+				</div><!-- /.block-style-fourteen -->
+			</div> 
 		</div>
 	</div>
 </div>
@@ -283,19 +277,19 @@
 					<div class="row">
 						<div class="col-xl-4 col-lg-4 col-sm-6" data-aos="fade-up">
 							<div class="team-block-one tran3s mt-50">
-								<div class="img-meta"><img src="{{- page.team_member_image_1 -}}" alt="" class="w-100"></div>
+								<div class="img-meta"><img src="{{- page.member_1[0].image -}}" alt="" class="w-100"></div>
 								<a href="index_team_details.html" class="team-info">
-									<span class="designation-text">{{ page.team_member_1_designation }}</span>
-									<span class="name tran3s">{{ page.team_member_1_name }}</span>
+									<span class="designation-text">{{ page.member_1[0].title }}</span>
+									<span class="name tran3s">{{ page.member_1[0].name }}</span>
 								</a>
 							</div> <!-- /.team-block-one -->
 						</div>
 						<div class="col-xl-4 col-lg-4 col-sm-6" data-aos="fade-up" data-aos-delay="100">
 							<div class="team-block-one tran3s mt-50 md-mt-30">
-								<div class="img-meta"><img src="{{- page.team_member_image_2 -}}" alt="" class="w-100"></div>
+								<div class="img-meta"><img src="{{- page.member_2[0].image -}}" alt="" class="w-100"></div>
 								<a href="team-details.html" class="team-info">
-									<span class="designation-text">{{ page.team_member_2_designation }}</span>
-									<span class="name tran3s">{{ page.team_member_2_name }}</span>
+									<span class="designation-text">{{ page.member_2[0].title }</span>
+									<span class="name tran3s">{{ page.member_2[0].name }</span>
 								</a>
 							</div> <!-- /.team-block-one -->
 						</div>
@@ -303,8 +297,8 @@
 							<div class="team-block-one tran3s mt-50 md-mt-30">
 								<div class="img-meta"><img src="{{- page.team_member_image_3 -}}" alt="" class="w-100"></div>
 								<a href="team-details.html" class="team-info">
-									<span class="designation-text">{{ page.team_member_3_designation }}</span>
-									<span class="name tran3s">{{ page.team_member_3_name }}</span>
+									<span class="designation-text">{{ page.member_3[0].title }}</span>
+									<span class="name tran3s">{{ page.member_3[0].name }</span>
 								</a>
 							</div> <!-- /.team-block-one -->
 						</div>
