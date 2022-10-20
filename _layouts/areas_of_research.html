@@ -237,7 +237,7 @@
 									<div class="sc-title-four">What is Chatbot</div>
 									<h2 class="main-title">{{ page.trustworthy[0].title }}</h2>
 								</div> 
-								{{ page.trustworthy[0].contet }}
+								{{ page.trustworthy[0].content }}
 								
 								
 								
@@ -321,6 +321,7 @@
 									<div class="sc-title-four">App Integration</div>
 									<h2 class="main-title">{{ page.active_learning[0].title }}</h2>
 								</div> <!-- /.title-style-one -->
+								
 									{{ page.active_learning[0].content }}
 								<!-- <div class="btn-three color-three">How to integrate? <a href="about-us1.html">Click here <i class="fas fa-chevron-right"></i></a></div> -->
 							</div> <!-- /.block-style-two -->
@@ -451,11 +452,16 @@
 							<div class="block-style-nine color-three pt-30 sm-pt-10">
 								<div class="title-style-one pb-10" data-aos="fade-up">
 									<div class="sc-title-four">WHY CHOOSE US</div>
-									<h2 class="main-title">AI For Social Good</h2>
+									<h2 class="main-title">{{ page.ai_for_social_good[0].title }}</h2>
 								</div> <!-- /.title-style-one -->
 								<ul class="style-none list-item">
 									<li data-aos="fade-up">
-										{{ page.ai_for_social_good_1 }}
+										
+										{% for content in page.ai_for_social_good_content %}
+										<li data-aos="fade-up">{{ content.value }}</li>
+										{% endfor %}
+<!-- 									
+										{{ page.ai_for_social_good[0].content }}
 										
 										</li>
 									<li data-aos="fade-up" data-aos-delay="100">
@@ -466,7 +472,7 @@
 						</div>
 						<div class="col-lg-6 order-lg-first text-center text-lg-start" data-aos="fade-right">
 							<div class="illustration-holder d-inline-block ms-xxl-5 mt-40 lg-mt-10">
-								<img style="border-radius: 25px; margin-top: 110px;" src="{{- page.areas_of_research_image_3 -}}" alt="" class="transform-img-meta">
+								<img style="border-radius: 25px; margin-top: 110px;" src="{{- page.ai_for_social_good.image -}}" alt="" class="transform-img-meta">
 								<!-- <img src="images/assets/ils_08_1.svg" alt="" class="shapes shape-one"> -->
 								<div id="Areas_research_22"></div>
 							</div>
@@ -489,23 +495,20 @@
 							<div class="block-style-nine color-three pt-30 sm-pt-10">
 								<div class="title-style-one pb-10" data-aos="fade-up">
 									<div class="sc-title-four">WHY CHOOSE US</div>
-									<h2 class="main-title">Crowdsourcing</h2>
+									<h2 class="main-title">{{ page.crowdsourcing[0].title }}</h2>
 								</div> <!-- /.title-style-one -->
 								<ul class="style-none list-item">
-									<li data-aos="fade-up">
-										{{ page.crowdsourcing_1 }}
-										
-										</li>
-									<li data-aos="fade-up" data-aos-delay="100">
-									{{ page.crowdsourcing_2 }}
-									</li>
+									{% for content in page.crowdsourcing_content %}
+									<li data-aos="fade-up">{{ content.value }}</li>
+									{% endfor %}
+<!-- 									
 									<!-- <li data-aos="fade-up" data-aos-delay="200">Review your practice questions and learn how to improve.</li> -->
 								</ul>
 							</div> <!-- /.block-style-nine -->
 						</div>
 						<div class="col-lg-6 order-lg-first text-center text-lg-start" data-aos="fade-right">
 							<div class="illustration-holder d-inline-block ms-xxl-5 mt-40 lg-mt-10">
-								<img style="border-radius: 25px; margin-top: 120px;" src="{{- page.areas_of_research_image_4 -}}" alt="" class="transform-img-meta">
+								<img style="border-radius: 25px; margin-top: 120px;" src="{{- page.crowdsourcing[0].image -}}" alt="" class="transform-img-meta">
 								<!-- <img src="images/assets/ils_08_1.svg" alt="" class="shapes shape-one"> -->
 								<div id="Areas_research_22"></div>
 							</div>
