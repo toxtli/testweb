@@ -42,8 +42,6 @@ member_3:
     title: "Volunteer Researcher"
     image: "images/assets/ravindu.jpg"  
 
-
-
 layout: team
 ---
 
