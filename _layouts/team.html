@@ -240,12 +240,18 @@
 <div class="fancy-feature-twentyThree mt-30">
 	<div class="container">
 		<div class="row gx-xxl-5">
-			<div class="col-lg-4 col-sm-6 d-flex aos-init aos-animate" data-aos="fade-up">
-				<div class="block-style-fourteen lg-mt-20">
-					<h5>Our History</h5>
-					<p>{{ page.our_history }}</p>
-				</div> <!-- /.block-style-fourteen -->
-			</div>
+			
+			
+			{% for text in page.three_elements %}
+				<div class="col-lg-4 col-sm-6 d-flex aos-init aos-animate" data-aos="fade-up">
+				  <div class="block-style-fourteen lg-mt-20">
+					<h5>{{ text.value.title}}</h5>
+					<p>{{ text.value.content }}</p>
+				  </div> <!-- /.block-style-fourteen -->
+			        </div>
+				
+			{% endfor %}
+<!-- 									
 			<div class="col-lg-4 col-sm-6 d-flex aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
 				<div class="block-style-fourteen lg-mt-20">
 					<h5>Our Mission</h5>
