@@ -235,9 +235,9 @@
 							<div class="block-style-two md-mb-50" data-aos="fade-left">
 								<div class="title-style-one">
 									<div class="sc-title-four">What is Chatbot</div>
-									<h2 class="main-title">{{ page.trustworthy[0].title }}</h2>
+									<h2 class="main-title">{{ page.trustworthy_ai[0].title }}</h2>
 								</div> 
-								{{ page.trustworthy[0].content }}
+								{{ page.trustworthy_ai[0].content }}
 								
 								
 								
@@ -296,7 +296,7 @@
 
 						<div class="col-lg-6 order-lg-first text-center text-lg-start" data-aos="fade-right">
 							<div class="illustration-holder d-inline-block ms-xxl-5 mt-40 lg-mt-10">
-								<img style="border-radius: 25px; margin-top: 80px;" src="{{- page.trustworthy[0].image -}}" alt="" class="transform-img-meta">
+								<img style="border-radius: 25px; margin-top: 80px;" src="{{- page.trustworthy_ai[0].image -}}" alt="" class="transform-img-meta">
 								<!-- <img src="images/assets/ils_08_1.svg" alt="" class="shapes shape-one"> -->
 								<div id="Areas_research_22"></div>
 							</div>
@@ -455,7 +455,7 @@
 									<h2 class="main-title">{{ page.ai_for_social_good[0].title }}</h2>
 								</div> <!-- /.title-style-one -->
 								<ul class="style-none list-item">
-									<li data-aos="fade-up">
+								
 										
 										{% for content in page.ai_for_social_good_content %}
 										<li data-aos="fade-up">{{ content.value }}</li>
