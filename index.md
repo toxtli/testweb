@@ -3,7 +3,9 @@ title: Homepage
 
 
 main_image:
- -
+ -  
+    title: "Human-AI Empowerment Lab"
+    sub_title: "Welcome to the Human-AI Empowerment Lab at Clemson University"
     image: "images/assets/Untitled.png"
 
 
