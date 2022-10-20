@@ -37,7 +37,7 @@ crowdsourcing :
     title: "Crowdsourcing"
     image: "images/assets/crowd.png"
     
-evaluating_in_real_life_settings_content:
+crowdsourcing_content:
   -
     value: "
       According to the findings of new research, AI could one day be able to instruct humans in the art of independent thought. According to the findings         of a study that was carried out by a group of academics at MIT, it is possible that AI might provide people a means by which they can learn how to         think for themselves and make judgments independently. The research included the use of an algorithm for machine learning to the process of training       a model that could be utilized to think about issues and come up with answers. The model was able to address challenges that entailed how to make a         choice, how to store data, and how to find a solution to the problem."
