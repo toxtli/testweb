@@ -1,7 +1,7 @@
 ---
 title: contact-us
 
-adress: 
+address: 
   -
     title: "Our Address"
     content: "
