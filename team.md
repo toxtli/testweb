@@ -7,25 +7,23 @@ group_image:
     
 three_elements:
   -   
-      value: 
-        -
-          title: "Our History"
-          content: "
-            Except to obtain some advantage from it? But who has any right to find fault with a consequences."
+    value: 
+      -
+        title: "Our History"
+        content: "
+          Except to obtain some advantage from it? But who has any right to find fault with a consequences."
+    value : 
+      -
+        title: "Our Mission"
+        content: "
+          Except to obtain some advantage from it? But who has any right to find fault with a consequences."
+    value : 
+      -
+        title: "Our Vission"
+        content: "
+          Except to obtain some advantage from it? But who has any right to find fault with a consequences."
 
-      value : 
-        -
-          title: "Our Mission"
-          content: "
-            Except to obtain some advantage from it? But who has any right to find fault with a consequences."
 
-      value : 
-        -
-          title: "Our Vission"
-          content: "
-            Except to obtain some advantage from it? But who has any right to find fault with a consequences."
-
-  
   
 team_members:
   -    
