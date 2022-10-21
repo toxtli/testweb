@@ -125,7 +125,17 @@ human_centric_approach_content:
       how to do a task when given a potty. This information is then utilized
       to develop systems that comprehend and 
       react to circumstances more effectively."
-
+      
+left_white_box: 
+  - 
+     title: " "
+     content:" "
+     
+left_white_box:
+  - 
+     title: " "
+     content: " "
+   
 
 layout: default
 ---
