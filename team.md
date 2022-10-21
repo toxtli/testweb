@@ -24,19 +24,15 @@ our_vission :
       Except to obtain some advantage from it? But who has any right to find fault with a consequences."
      
     
-member_1: 
+members: 
   -
     name: "Carlos Toxtli-Hernandez"
     title: "Assistant Professor"
     image: "images/assets/carlos1.jpg"
-    
-member_2: 
   -
     name: "Cecilia Delgado-Solorzano"
     title: "Research Assistant"
     image: "images/assets/ceclia.jpg" 
-    
-member_3: 
   -
     name: "Ravindu Tharanga Perera"
     title: "Volunteer Researcher"
