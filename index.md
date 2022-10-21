@@ -12,20 +12,20 @@ head_banner:
 three_elements:
  -
     icon: "images/icon/icon_17.svg"
-    title: "Data Science"
+    title: "Human-Centered AI"
     discription: "
-     Convert data noise to intelligent insights for quis competitive differentiation."
+     We apply a Human-Centered approach for the design of AI solutions."
    
  -
     icon: "images/icon/icon_18.svg"
-    title: "Machine Learning"
+    title: "Use-Inspired AI"
     discription: "
-     Convert data noise to intelligent insights for quis competitive differentiation."
+     Projects are defined based on particular use cases where AI can provide value."
  -
     icon: "images/icon/icon_19.svg"
-    title: "Customer Support"
+    title: "AI for Social Good"
     discription: "
-     Convert data noise to intelligent insights for quis competitive differentiation."
+     Technology is designed to promote good in different aspects of society."
      
 who_we_are:
  -
