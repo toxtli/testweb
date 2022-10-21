@@ -26,13 +26,13 @@ our_vission :
     
 member_1: 
   -
-    name: "Dr.Carlos Toxtli"
+    name: "Carlos Toxtli-Hernandez"
     title: "Assistant Professor"
     image: "images/assets/carlos1.jpg"
     
 member_2: 
   -
-    name: "Cecilia Delgado Solorzano"
+    name: "Cecilia Delgado-Solorzano"
     title: "Research Assistant"
     image: "images/assets/ceclia.jpg" 
     
