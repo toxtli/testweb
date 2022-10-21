@@ -127,12 +127,12 @@ human_centric_approach_content:
       react to circumstances more effectively."
       
 left_white_box: 
-  - 
+   - 
      title: " "
-     content:" "
+     content: " "
      
 left_white_box:
-  - 
+   - 
      title: " "
      content: " "
    
