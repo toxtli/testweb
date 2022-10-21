@@ -37,6 +37,10 @@ members:
     name: "Ravindu Tharanga Perera"
     title: "Volunteer Researcher"
     image: "images/assets/ravindu.jpg"  
+  -
+    name: "Ravindu Tharanga Perera"
+    title: "Volunteer Researcher"
+    image: "images/assets/ravindu.jpg"  
 
 layout: team
 ---
