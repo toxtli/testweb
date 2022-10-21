@@ -105,11 +105,11 @@
     margin-top: 0 !important;
   }
 } */
-@media (max-width: 1800px){
+/* @media (max-width: 1800px){
 .lg-mt-100 {
   margin-top: 0 !important;
 }
-}
+} */
 @media (max-width: 1199px){
 .lg-mt-110 {
   margin-top: 0 !important;
