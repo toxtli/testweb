@@ -68,7 +68,7 @@
   width: 44vw;
 }
   }
-  @media (min-width: 992px) and (max-width: 2800px){
+  @media (min-width: 992px) and (max-width: 3800px){
   .hero-banner-three {
     padding: 125px !important;
   }
