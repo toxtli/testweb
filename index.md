@@ -73,28 +73,13 @@ use_inspired:
 use_inspired_content:
   -
     value: "
-      Use-inspired Artificial intelligence (AI) is 
-      often designed to be rapid and effective, since it can do challenging tasks
-      with relative ease. 
-      There are a multitude of methods via which artificial intelligence may be used
-      to make our lives simpler.hending and reacting to circumstances."
+      Our technology is designed to provide solutions to common challenges in multiple contexts."
   -
     value: "
-      It may be applied to aid in the decision-making process. Artificial intelligence may be advantageous to decision-making since it can deliver more         accurate responses than humans. As a technique of making judgments in a more rapid and efficient manner, this is used often in business contexts."
-
+      We identify scenarios in which decision making can be assisted by AI technologies."
   -
     value: "
-      It may be used to improve the overall working environment. 
-      Artificial intelligence may be used to enhance the working environment since it can offer
-      a more accurate representation of the working environment than humans.
-      This is used often in businesses because of its ability to provide a more efficient
-      and productive working environment."
-  -
-    value: "
-      It may be used as a tool to aid the learning process.
-      Artificial intelligence may be deployed to aid in the learning process since it may 
-      offer a more realistic portrayal of the learning process than humans can. Due to its ability 
-      to support a more quick and more efficient learning process, this is often used in business contexts."
+      Our approach provides the perspectives of the different stakeholders in a process."
 
 human_centric_approach:
   -
