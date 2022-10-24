@@ -118,14 +118,13 @@ right_white_box:
      content: "hello@haielab.org"
      
      
-footer
+footer:
    - 
-     logo: "images/logo/HCAI_LOGO_MAIN-03.png"
+     logo: " images/logo/HCAI_LOGO_MAIN-03.png"
      content: "We will assist you in becoming more successful."
-     facebook: ""
-     twitter: ""
-     linkdin: ""
-
+     facebook: " "
+     twitter: " "
+     linkdin: " "
    
 
 layout: default
