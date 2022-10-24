@@ -63,7 +63,10 @@ use_inspired_content:
   -
     value: "
       Our approach provides the perspectives of the different stakeholders in a process."
-      
+  -
+    value: "
+      Our approach provides the perspectives of the different stakeholders in a process."
+         
       
 
 human_centric_approach:
