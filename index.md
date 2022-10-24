@@ -48,23 +48,6 @@ what_we_do:
              
 
 
-
-
-news:
-  -
-    title: "
-     Musk predicts AI will be superior to humans within five years"
-    date: "11 OCT, 2022"
-    image: "images/assets/news1.jpg"
-  -
-    title: "Justin Swansburg, DataRobot: On combining human and machine intelligence"
-    date: "11 OCT, 2022"
-    image: "images/assets/news2.jpg"
-  -
-    title: "OpenAI removes waitlist for DALL-E text-to-image generator"
-    date: "11 OCT, 2022"
-    image: "images/assets/news3.jpg"
-    
 use_inspired:
   -
     image: "images/assets/main_3.png"
@@ -80,6 +63,8 @@ use_inspired_content:
   -
     value: "
       Our approach provides the perspectives of the different stakeholders in a process."
+      
+      
 
 human_centric_approach:
   -
@@ -96,6 +81,28 @@ human_centric_approach_content:
   -
     value: "
       We use Human-Centered AI design principles to define solutions that aligns to our interests."
+      
+  -
+    value: "
+      We use Human-Centered AI design principles to define solutions that aligns to our interests."    
+      
+      
+news:
+  -
+    title: "
+     Musk predicts AI will be superior to humans within five years"
+    date: "11 OCT, 2022"
+    image: "images/assets/news1.jpg"
+  -
+    title: "Justin Swansburg, DataRobot: On combining human and machine intelligence"
+    date: "11 OCT, 2022"
+    image: "images/assets/news2.jpg"
+  -
+    title: "OpenAI removes waitlist for DALL-E text-to-image generator"
+    date: "11 OCT, 2022"
+    image: "images/assets/news3.jpg"
+          
+            
       
 left_white_box: 
    - 
