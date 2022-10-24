@@ -857,7 +857,7 @@
 			<div class="blog-section-two mt-170 lg-mt-110">
 				<div class="container">
 					<div class="title-style-one text-center mb-50 lg-mb-20" data-aos="fade-up">
-						<h2 class="main-title">Human AI Laboratory News</h2>
+						<h2 class="main-title">{{ page.news[0].header_title }}</h2>
 					</div> <!-- /.title-style-one -->
 
 					<div class="row gx-xxl-5">
@@ -867,7 +867,7 @@
 								<div class="post-data">
 									<div class="post-tag"><a href="blog-details.html">{{ page.news[0].date }}</a></div>
 									<a href="blog-details.html" class="blog-title"><h5>{{ page.news[0].title }}</h5></a>
-									<a href="blog-details.html" class="read-btn tran3s">Continue Reading <i class="fas fa-chevron-right"></i></a>
+									<a href="{{- page.news[0].link -}}" class="read-btn tran3s">Continue Reading <i class="fas fa-chevron-right"></i></a>
 								</div> <!-- /.post-data -->
 							</article>
 						</div>
