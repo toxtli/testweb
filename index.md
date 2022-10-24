@@ -107,7 +107,7 @@ left_white_box:
      title: "Visit us"
      content: "216 McAdams Hall, Clemson, SC, USA"
      
-left_white_box:
+right_white_box:
    - 
      title: "Contact us"
      content: "hello@haielab.org"
