@@ -87,12 +87,11 @@ human_centric_approach_content:
       
 news:
  
- -
+  -
     header_title: "Human AI Laboratory News"
 
   -
-    title: "
-     Musk predicts AI will be superior to humans within five years"
+    title: "Musk predicts AI will be superior to humans within five years"
     date: "11 OCT, 2022"
     image: "images/assets/news1.jpg"
     link: "blog-details.html"
