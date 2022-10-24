@@ -960,12 +960,12 @@
 					<div class="inner-wrapper">
 						<div class="row">
 							<div class="col-lg-4 footer-intro mb-40">
-								<div class="logo"><a href="index.html"><img src="images/logo/logo_02.png" alt="" width="129"></a></div>
-								<p>We will assist you in becoming more successful.</p>
+								<div class="logo"><a href="index.html"><img src="{{- page.footer[0].logo -}}" alt="" width="129"></a></div>
+								<p>{{ page.footer[0].content }}</p>
 								<ul class="d-flex social-icon style-none">
-									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+									<li><a href="{{ page.footer[0].facebook }}"><i class="fab fa-facebook-f"></i></a></li>
+									<li><a href="{{ page.footer[0].twitter }}"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="{{ page.footer[0].linkdin }}"><i class="fab fa-linkedin-in"></i></a></li>
 								</ul>
 							</div>
 							<div style="padding-left: 100px;" class="col-xl-4 col-lg-4 col-md-6 mb-30">
