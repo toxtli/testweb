@@ -4,7 +4,7 @@ title: Homepage
 
 head_banner:
  -  
-    title: "Human-AI Empowerment Lab"
+    title: "Human-AI Empowerment"
     sub_title: "Welcome to the Human-AI Empowerment Lab at Clemson University"
     image: "images/assets/Untitled.png"
 
