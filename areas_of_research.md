@@ -45,7 +45,13 @@ crowdsourcing_content:
     value: "
        This project is the first of its type to ever employ AI to teach people how to think independently for themselves. The study group thinks that this        might be a means for people to become more informed and effective in the field of decision-making, and they feel that this could be accomplished by        using artificial intelligence."
 
-
+footer:
+   - 
+     logo: "images/logo/HAIE_ LOGO_PRE.png"
+     content: "We will assist you in becoming more successful."
+     facebook: " "
+     twitter: " "
+     linkdin: " "
  
 layout: areas_of_research
 ---
