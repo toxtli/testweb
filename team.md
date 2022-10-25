@@ -41,6 +41,15 @@ members:
     name: "Ravindu Tharanga Perera"
     title: "Volunteer Researcher"
     image: "images/assets/ravindu.jpg"  
+    
+    
+footer:
+   - 
+     logo: "images/logo/HAIE_ LOGO_PRE.png"
+     content: "We will assist you in becoming more successful."
+     facebook: " "
+     twitter: " "
+     linkdin: " "
 
 layout: team
 ---
