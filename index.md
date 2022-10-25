@@ -120,7 +120,7 @@ right_white_box:
      
 footer:
    - 
-     logo: " images/logo/HCAI_LOGO_MAIN-03.png"
+     logo: "images/logo/HAIE_ LOGO_PRE.png"
      content: "We will assist you in becoming more successful."
      facebook: " "
      twitter: " "
