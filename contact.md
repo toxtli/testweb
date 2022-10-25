@@ -5,7 +5,7 @@ address:
   -
     title: "Our Address"
     content: "
-      100 McAdams Hall Clemson, 216-Human AI Empowerment Lab, SC 29634"
+      216 McAdams Hall, Clemson, SC, USA"
     icon: "images/icon/icon_17.svg"
       
 contact: 
@@ -23,6 +23,13 @@ support :
     content: "www.sincochat.com"
     icon: "images/icon/icon_19.svg"
     
+footer:
+   - 
+     logo: "images/logo/HAIE_ LOGO_PRE.png"
+     content: "We will assist you in becoming more successful."
+     facebook: " "
+     twitter: " "
+     linkdin: " "
 
 
 
