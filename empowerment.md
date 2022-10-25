@@ -71,6 +71,14 @@ evaluating_in_real_life_settings_content:
       the AI's level of efficiency and effectiveness. would have to be done in 
       order to decide whether training is required."
 
+footer:
+   - 
+     logo: "images/logo/HAIE_ LOGO_PRE.png"
+     content: "We will assist you in becoming more successful."
+     facebook: " "
+     twitter: " "
+     linkdin: " "
+   
 
 
  
