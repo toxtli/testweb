@@ -8,19 +8,19 @@ address:
       216 McAdams Hall, Clemson, SC, USA"
     icon: "images/icon/icon_17.svg"
       
-contact: 
+Chat: 
   -
-    title: "Our Mission"
-    sub_content: "Contact Info"
-    content: "Open a chat or give us call at"
-    contact_no: "310.841.5500"
+    title: "Chat With Us"
+    sub_content: ""
+    content: "Send us message on SLACK"
+    contact_no: "ai4he.slack.com"
     icon: "images/icon/icon_18.svg"
       
-support : 
+Contact : 
   -
-    title: "Live Support"
-    sub_content: "live chat service"
-    content: "www.sincochat.com"
+    title: "Contact us"
+    sub_content: ""
+    content: "hello@haielab.org"
     icon: "images/icon/icon_19.svg"
     
 footer:
