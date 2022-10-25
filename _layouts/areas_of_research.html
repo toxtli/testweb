@@ -22,7 +22,7 @@
 		<meta name="apple-mobile-web-app-status-bar-style" content="#1E78FF">
 		<title>Human-AI Empowerment Lab</title>
 		<!-- Favicon -->
-		<link rel="icon" type="image/png" sizes="56x56" href="images/fav-icon/icon.png">
+		<link rel="icon" type="image/png" sizes="1000x1000" href="images/logo/HCAI_LOGO_MAIN-03.png">
 		<!-- Main style sheet -->
 		<link rel="stylesheet" type="text/css" href="css/style.css" media="all">
 		<link rel="stylesheet" type="text/css" href="css/white.css" media="all">
@@ -839,12 +839,12 @@
 						</div>  -->
 						<div class="row">
 							<div class="col-lg-6 footer-intro mb-40">
-								<div class="logo"><a href="index.html"><img src="images/logo/logo_01.png" alt="" width="130"></a></div>
-								<p>In this class, you will learn about the most effective machine learning techniques, and gain practice implementing them.</p>
+								<div class="logo"><a href="index.html"><img src="{{- page.footer[0].logo -}}" alt="" width="129"></a></div>
+								<p>{{ page.footer[0].content }}</p>
 								<ul class="d-flex social-icon style-none">
-									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+									<li><a href="{{ page.footer[0].facebook }}"><i class="fab fa-facebook-f"></i></a></li>
+									<li><a href="{{ page.footer[0].twitter }}"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="{{ page.footer[0].linkdin }}"><i class="fab fa-linkedin-in"></i></a></li>
 								</ul>
 							</div>
 							<div style= "text-align: center;" class="col-lg-6 col-sm-6 ms-auto mb-30 ">
@@ -881,11 +881,11 @@
 						<div class="bottom-footer">
 							<div class="d-lg-flex justify-content-between align-items-center">
 								<ul class="order-lg-1 pb-15 d-flex justify-content-center footer-nav style-none">
-									<li><a href="faq.html">Privacy &amp; Terms.</a></li>
+<!-- 									<li><a href="faq.html">Privacy &amp; Terms.</a></li>
 									<li><a href="faq.html">FAQ</a></li>
-									<li><a href="contact-us.html">Contact Us</a></li>
+									<li><a href="contact-us.html">Contact Us</a></li> -->
 								</ul>
-								<p class="copyright text-center order-lg-0 pb-15">Copyright @2022 sinco inc.</p>
+								<p class="copyright text-center order-lg-0 pb-15">Copyright @2022 </p>
 							</div>
 						</div>
 					</div> <!-- /.inner-wrapper -->
